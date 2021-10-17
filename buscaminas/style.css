@@ -1,0 +1,17 @@
+html {
+    background-color: teal;
+}
+
+#app {
+    background-color: teal;
+}
+
+.celda {
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    cursor: pointer;
+    text-align: center;
+    background-color: grey;
+    font-weight: bold;
+}
